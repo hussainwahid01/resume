@@ -1,0 +1,102 @@
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-image: url('1.jpg'); /* Add your image here */
+    background-size: cover; /* This makes the background cover the entire page */
+    background-position: center; /* This centers the background image */
+    background-repeat: no-repeat; /* This prevents the image from repeating */
+}
+
+header {
+color: #000000;
+    padding: 9px; 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #030202;
+    text-decoration: none;
+}
+
+section {
+    padding: 15px;
+    margin: 25px;
+    background: 
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background:
+    color: #ffffff;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color:
+}
+
+header {
+    color: #0c0707;
+    background:
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background: 
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background:
+    position: relative;
+    bottom: 0;
+    width: 100%;
+footer {
+    text-align: left;
+    padding: 10px 0;
+    background:
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
